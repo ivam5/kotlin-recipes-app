@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RecipeApp</string>
+    <string name="get_started">Get Started</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about">About</string>
+    <string name="recipes">Recipes</string>
+    <string name="exit">Confirmation</string>
+    <string name="dish_name">Dish Name</string>
+    <string name="category_name">Category name</string>
+    <string name="all_recipes">Choose wisely.</string>
+    <string name="meal_name">Meal name</string>
+    <string name="really_exit">Are you sure you want to exit?</string>
+    <string name="access_storage">This app needs access to your storage.</string>
+    <string name="sth_went_wrong">Something went wrong.</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="area">Irish</string>
+    <string name="recipe_db">recipe.db</string>
+</resources>
